@@ -11,7 +11,7 @@ teach. **[CV](https://github.com/mendess/cv)**
 - ![rust](assets/rust-small.png) [scryfall](https://github.com/mendess/scryfall-rs): A wrapper around [Scryfall](https://scryfall.com)'s api
 - ![rust](assets/rust-small.png) [m](https://github.com/mendess/m): My music player
 - ![rust](assets/rust-small.png) [blind-eternities](https://github.com/mendess/blind-eternities): The backend of my life.
-- ![rust](assets/rust-small.png) [memnarch-rs](https://github.com/mendess/memnarch-rs): My discord bot.
+- ![rust](assets/rust-small.png) [memnarch-rs](https://github.com/mendess/memnarch-rs): My discord bot. 🤖
 - ![shell](assets/bash-small.png) ![python](assets/python-small.png) [spell-book](https://github.com/mendess/spell-book): My personal dotfiles
 - ![rust](assets/rust-small.png) [mirrodin](https://github.com/mendess/mirrodin): My utilities website, if I need a webpage for something I put it here.
     - [wallpapers](https://mendess.xyz/walls)
