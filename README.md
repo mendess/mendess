@@ -10,33 +10,33 @@ Currently work at [Speechify](https://speechify.com/) where I use ![kotlin](asse
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=mendess&count_private=true&show_icons=true" alt="mendess github readme stats"/>
 
 ### Personal
-- ![rust](assets/rust-small.png) [scryfall](https://github.com/mendess/scryfall-rs): A wrapper around [Scryfall](https://scryfall.com)'s api
-- ![rust](assets/rust-small.png) [m](https://github.com/mendess/m): My music player
-- ![rust](assets/rust-small.png) [blind-eternities](https://github.com/mendess/blind-eternities): The backend of my life.
-- ![rust](assets/rust-small.png) [memnarch-rs](https://github.com/mendess/memnarch-rs): My discord bot. 🤖
+- ![rust](assets/ferris-small.png) [scryfall](https://github.com/mendess/scryfall-rs): A wrapper around [Scryfall](https://scryfall.com)'s api
+- ![rust](assets/ferris-small.png) [m](https://github.com/mendess/m): My music player
+- ![rust](assets/ferris-small.png) [blind-eternities](https://github.com/mendess/blind-eternities): The backend of my life.
+- ![rust](assets/ferris-small.png) [memnarch-rs](https://github.com/mendess/memnarch-rs): My discord bot. 🤖
 - ![shell](assets/bash-small.png) ![python](assets/python-small.png) [spell-book](https://github.com/mendess/spell-book): My personal dotfiles
-- ![rust](assets/rust-small.png) [mirrodin](https://github.com/mendess/mirrodin): My utilities website, if I need a webpage for something I put it here.
+- ![rust](assets/ferris-small.png) [mirrodin](https://github.com/mendess/mirrodin): My utilities website, if I need a webpage for something I put it here.
     - [wallpapers](https://mendess.xyz/walls)
     - [playlist](https://mendess.xyz/playlist)
 - ![shell](assets/bash-small.png) [web-xdg-open](https://github.com/mendess/web-xdg-open): An util to override the default behaviour of `xdg-open` when clicking a link, published to the aur.
 
 
 ### Open source contributions
-- ![rust](assets/rust-small.png) [rust-lang/rust](https://github.com/rust-lang/rust/pulls?q=author\%3Amendess+)
-- ![rust](assets/rust-small.png) [serenity-rs](https://github.com/serenity-rs/serenity/pulls?q=author\%3Amendess+)
-- ![rust](assets/rust-small.png) [bread-graphics/breadx](https://github.com/bread-graphics/breadx/pulls?q=author\%3Amendess+)
+- ![rust](assets/ferris-small.png) [rust-lang/rust](https://github.com/rust-lang/rust/pulls?q=author\%3Amendess+)
+- ![rust](assets/ferris-small.png) [serenity-rs](https://github.com/serenity-rs/serenity/pulls?q=author\%3Amendess+)
+- ![rust](assets/ferris-small.png) [bread-graphics/breadx](https://github.com/bread-graphics/breadx/pulls?q=author\%3Amendess+)
 
 ### Rust libs
-- ![rust](assets/rust-small.png) [mtg-spoilers](https://github.com/mendess/mtg-spoilers): Tiny rust lib to fetch newly revealed mtg cards.
-- ![rust](assets/rust-small.png) [mlib](https://github.com/mendess/m): This is actually just `m` from the personal projects section, but I wrote it as a li.b
-- ![rust](assets/rust-small.png) [namespaced-tmp](https://github.com/mendess/namespaced-tmp): A lib to get a temporary folder that respects multiple users.
-- ![rust](assets/rust-small.png) [git-describe](https://github.com/mendess/git-describe): A small proc macro to fetch the output of `git describe` and include it in the binary as a static string.
+- ![rust](assets/ferris-small.png) [mtg-spoilers](https://github.com/mendess/mtg-spoilers): Tiny rust lib to fetch newly revealed mtg cards.
+- ![rust](assets/ferris-small.png) [mlib](https://github.com/mendess/m): This is actually just `m` from the personal projects section, but I wrote it as a li.b
+- ![rust](assets/ferris-small.png) [namespaced-tmp](https://github.com/mendess/namespaced-tmp): A lib to get a temporary folder that respects multiple users.
+- ![rust](assets/ferris-small.png) [git-describe](https://github.com/mendess/git-describe): A small proc macro to fetch the output of `git describe` and include it in the binary as a static string.
 
 
 ### Toys I made
-- ![rust](assets/rust-small.png) [foretell](https://github.com/mendess/foretell): A simple dmenu+sxiv app to fetch magic cards (using my scryfall wrapper).
-- ![rust](assets/rust-small.png) [pacman](https://github.com/mendess/rust-pacman): An implementation of pacman written in rust.
-- ![rust](assets/rust-small.png) [snek](https://github.com/mendess/snek): An implementation of snake written one in a burger king.
+- ![rust](assets/ferris-small.png) [foretell](https://github.com/mendess/foretell): A simple dmenu+sxiv app to fetch magic cards (using my scryfall wrapper).
+- ![rust](assets/ferris-small.png) [pacman](https://github.com/mendess/rust-pacman): An implementation of pacman written in rust.
+- ![rust](assets/ferris-small.png) [snek](https://github.com/mendess/snek): An implementation of snake written one in a burger king.
 - ![python](assets/python-small.png) [bulb](https://github.com/mendess/bulb): Utils to control the RGB lamp in my room.
 
 
