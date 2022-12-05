@@ -47,3 +47,15 @@ teach. **[CV](https://github.com/mendess/cv)**
 - ![go](assets/gopher-small.png) ![c](assets/c-small.png) [internet of things](https://github.com/mendess/IoT): A communication relay written in Go to establish communication between two arduinos over the internet.
 - ![c](assets/c-small.png) [high performance computing](https://github.com/mendess/CPD): 3 implementation of a particular matrix processing algorithm, first sequential, second using openMP and the third using MPI
 
+
+## Hobbies
+
+### Teaching
+
+I like to teach programming at my course's discord and other random programming discords.
+
+### Magic The Gathering
+
+It's a strategy card game with 30+ years of history, if you know the game you
+already knew this about me from the names of my projects 👀
+
