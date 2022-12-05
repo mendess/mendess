@@ -36,7 +36,7 @@ Currently work at [Speechify](https://speechify.com/) where I use ![kotlin](asse
 ### Toys I made
 - ![rust](assets/ferris-small.png) [foretell](https://github.com/mendess/foretell): A simple dmenu+sxiv app to fetch magic cards (using my scryfall wrapper).
 - ![rust](assets/ferris-small.png) [pacman](https://github.com/mendess/rust-pacman): An implementation of pacman written in rust.
-- ![rust](assets/ferris-small.png) [snek](https://github.com/mendess/snek): An implementation of snake written one in a burger king.
+- ![rust](assets/ferris-small.png) [snek](https://github.com/mendess/snek): An implementation of snake written one night in a burger king.
 - ![python](assets/python-small.png) [bulb](https://github.com/mendess/bulb): Utils to control the RGB lamp in my room.
 
 
