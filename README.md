@@ -3,6 +3,8 @@
 I'm a backend engineer, who's favourite language is rust and who's hobby is to
 teach. **[CV](https://github.com/mendess/cv)**
 
+Currently work at [Speechify](https://speechify.com/) where I use ![kotlin](assets/kotlin-small.png) Kotlin, ![ts](assets/typescript-small.png) Typescript, _and look at ![swift](assets/swift-small.png) Swift from afar_, every day!
+
 ## Projects
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=mendess&count_private=true&show_icons=true" alt="mendess github readme stats"/>
