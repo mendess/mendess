@@ -1,16 +1,14 @@
 # Hey 👋
 
 I'm a backend engineer, who's favourite language is rust and who's hobby is to
-teach.
+teach. **[CV](https://github.com/mendess/cv)**
 
 ## Projects
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=mendess&count_private=true&show_icons=true" alt="mendess github readme stats"/>
 
-### Open source
-- ![rust](assets/rust-small.png) [scryfall](https://github.com/mendess/scryfall-rs): A wrapper around [Scryfall](https://scryfall.com)'s api
-
 ### Personal
+- ![rust](assets/rust-small.png) [scryfall](https://github.com/mendess/scryfall-rs): A wrapper around [Scryfall](https://scryfall.com)'s api
 - ![rust](assets/rust-small.png) [m](https://github.com/mendess/m): My music player
 - ![rust](assets/rust-small.png) [blind-eternities](https://github.com/mendess/blind-eternities): The backend of my life.
 - ![rust](assets/rust-small.png) [memnarch-rs](https://github.com/mendess/memnarch-rs): My discord bot.
@@ -20,6 +18,11 @@ teach.
     - [playlist](https://mendess.xyz/playlist)
 - ![shell](assets/bash-small.png) [web-xdg-open](https://github.com/mendess/web-xdg-open): An util to override the default behaviour of `xdg-open` when clicking a link, published to the aur.
 
+
+### Open source contributions
+- ![rust](assets/rust-small.png) [rust-lang/rust](https://github.com/rust-lang/rust/pulls?q=author\%3Amendess+)
+- ![rust](assets/rust-small.png) [serenity-rs](https://github.com/serenity-rs/serenity/pulls?q=author\%3Amendess+)
+- ![rust](assets/rust-small.png) [bread-graphics/breadx](https://github.com/bread-graphics/breadx/pulls?q=author\%3Amendess+)
 
 ### Rust libs
 - ![rust](assets/rust-small.png) [mtg-spoilers](https://github.com/mendess/mtg-spoilers): Tiny rust lib to fetch newly revealed mtg cards.
