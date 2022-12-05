@@ -52,11 +52,11 @@ Currently work at [Speechify](https://speechify.com/) where I use ![kotlin](asse
 
 ## Hobbies
 
-### Teaching
+### Teaching 📚
 
 I like to teach programming at my course's discord and other random programming discords.
 
-### Magic The Gathering
+### Magic The Gathering 🧙
 
 It's a strategy card game with 30+ years of history, if you know the game you
 already knew this about me from the names of my projects 👀
