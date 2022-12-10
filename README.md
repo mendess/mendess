@@ -16,8 +16,8 @@ Currently work at [Speechify](https://speechify.com/) where I use ![kotlin](asse
 - ![rust](assets/ferris-small.png) [memnarch-rs](https://github.com/mendess/memnarch-rs): My discord bot. 🤖
 - ![shell](assets/bash-small.png) ![python](assets/python-small.png) [spell-book](https://github.com/mendess/spell-book): My personal dotfiles
 - ![rust](assets/ferris-small.png) [mirrodin](https://github.com/mendess/mirrodin): My utilities website, if I need a webpage for something I put it here.
-    - [wallpapers](https://mendess.xyz/walls)
-    - [playlist](https://mendess.xyz/playlist)
+    - [wallpapers](http://mendess.xyz/walls)
+    - [playlist](http://mendess.xyz/playlist)
 - ![shell](assets/bash-small.png) [web-xdg-open](https://github.com/mendess/web-xdg-open): An util to override the default behaviour of `xdg-open` when clicking a link, published to the aur.
 
 
