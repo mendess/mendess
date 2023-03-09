@@ -3,7 +3,7 @@
 I'm a backend engineer, whose favourite language is rust and whose hobby is to
 teach. **[CV](https://github.com/mendess/cv)**
 
-Currently work at [Speechify](https://speechify.com/) where I use ![kotlin](assets/kotlin-small.png) Kotlin, ![ts](assets/typescript-small.png) Typescript, _and look at ![swift](assets/swift-small.png) Swift from afar_, every day!
+Currently work at [Cloudflare](https://cloudflare.com/) where I use ![rust](assets/ferris-small.png) Rust to build a better internet!
 
 ## Projects
 
