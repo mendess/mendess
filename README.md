@@ -23,6 +23,7 @@ Currently work at [Cloudflare](https://cloudflare.com/) where I use ![rust](asse
 
 ### Open source contributions
 - ![rust](assets/ferris-small.png) [rust-lang/rust](https://github.com/rust-lang/rust/pulls?q=author\%3Amendess+)
+- ![rust](assets/ferris-small.png) [libbpf/libbpf-rs](https://github.com/libbpf/libbpf-rs/pulls?q=author\%3Amendess+)
 - ![rust](assets/ferris-small.png) [serenity-rs](https://github.com/serenity-rs/serenity/pulls?q=author\%3Amendess+)
 - ![rust](assets/ferris-small.png) [bread-graphics/breadx](https://github.com/bread-graphics/breadx/pulls?q=author\%3Amendess+)
 
