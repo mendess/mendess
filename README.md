@@ -29,7 +29,7 @@ Currently work at [Cloudflare](https://cloudflare.com/) where I use ![rust](asse
 
 ### Rust libs
 - ![rust](assets/ferris-small.png) [mtg-spoilers](https://github.com/mendess/mtg-spoilers): Tiny rust lib to fetch newly revealed mtg cards.
-- ![rust](assets/ferris-small.png) [mlib](https://github.com/mendess/m): This is actually just `m` from the personal projects section, but I wrote it as a li.b
+- ![rust](assets/ferris-small.png) [mlib](https://github.com/mendess/m): This is actually just `m` from the personal projects section, but I wrote it as a lib.
 - ![rust](assets/ferris-small.png) [namespaced-tmp](https://github.com/mendess/namespaced-tmp): A lib to get a temporary folder that respects multiple users.
 - ![rust](assets/ferris-small.png) [git-describe](https://github.com/mendess/git-describe): A small proc macro to fetch the output of `git describe` and include it in the binary as a static string.
 
